@@ -1,0 +1,11 @@
+.bodyReactFlow {
+  margin: auto;
+  height: 99.8%;
+  width: 99.9%;
+  
+  border: 1px solid black;
+}
+
+.reactFlow {
+  background: #1a192b;
+}

@@ -1,0 +1,17 @@
+.textUpdaterNode {
+  padding: 12px 10px;
+  width: 280px;
+
+  background: #eee;
+  border: 2px solid #555;
+  border-radius: 5px;
+
+  font-size: 16px;
+  color: #222;
+  text-align: center;
+}
+
+.select {
+  width: 280px;
+  margin-bottom: 5px;
+}
